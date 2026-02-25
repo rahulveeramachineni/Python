@@ -1,2 +1,5 @@
 # Python
-Python codes from basics
+Task 1:
+      Performs various numeric transaction
+Task 2:
+      Taks including the print function
